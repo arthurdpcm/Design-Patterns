@@ -1,11 +1,11 @@
 # Singleton
 
-Garantir que uma classe tenha somente uma instância no programa e fornecer um ponto de acesso global a mesma.
-Geralmente usado para acesso a recursos compartilhados, como interface, base de dados, sistema de arquivos.
+Ensure that a class has only one instance in the program and provide a global access point to it.
+Generally used to access shared resources, such as interfaces, databases and file systems.
 
-Pode substituir variáveis globais. Singleton ele protege a instância, deixa privada na classe.
+Can replace global variables. Singleton it protects the instance, leaving it private in the class.
 
-Pode ter problema em casos de concorrência.
+Can be problematic in cases of concurrency.
 
 Singleton
  - Instance: Singleton
